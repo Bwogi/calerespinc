@@ -120,7 +120,7 @@ export const paths = {
     colors: '/components/colors',
     inputs: '/components/inputs',
   },
-  docs: 'https://material-kit-pro-react-docs.devias.io',
+  docs: '#',
   notAuthorized: '/401',
   notFound: '/404',
   serverError: '/500',
